@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sabastain Wakoyi
 
-<!--
+
 **Sabastain-Wakoyi/Sabastain-Wakoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to gospel music
 -- Know about my experiences https://www.linkedin.com/in/sabastain-wakoyi/
---> 
+
 
