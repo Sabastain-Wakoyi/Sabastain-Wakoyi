@@ -4,8 +4,6 @@
 **Sabastain-Wakoyi/Sabastain-Wakoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on API Developments, Java Projects and TDD
@@ -15,5 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to gospel music
 -- Know about my experiences https://www.linkedin.com/in/sabastain-wakoyi/
-
-
