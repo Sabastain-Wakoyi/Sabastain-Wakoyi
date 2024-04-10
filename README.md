@@ -14,4 +14,3 @@
 - 📫 How to reach me: sabastainwakoyi01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to gospel music
-- Know about my experiences https://www.linkedin.com/in/sabastain-wakoyi/
