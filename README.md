@@ -9,4 +9,4 @@
 - I have done research on Fraud detection using ML/AI, Financial Sentiment Analysis, LLMs and Deep Learning 
 - 👯 I’m looking to collaborate on research
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love listening to gospel music
+- ⚡ I love listening to gospel music
