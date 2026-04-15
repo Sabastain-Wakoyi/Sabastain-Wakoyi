@@ -5,12 +5,8 @@
 -->
 
 - 🔭 I’m currently working on Artificial Intelligence and Machine Learning Applications in Economics and Finance
-- My Thesis is on AI-optimization of Economic Policies
+- My Thesis was on AI-optimization of Economic Policies
 - I have done research on Fraud detection using ML/AI, Financial Sentiment Analysis, LLMs and Deep Learning 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on API Developments, Java Projects and TDD
-- 🤔 I’m looking for help with React
-- 💬 Ask me about AWS Solutions Architect, JavaScripts, Java, Web Services, TDD
-- 📫 How to reach me: sabastainwakoyi01@gmail.com
+- 👯 I’m looking to collaborate on research
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to gospel music
